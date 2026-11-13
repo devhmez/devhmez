@@ -9,7 +9,7 @@ Full-stack developer and computer-engineering student at ESPRIT, Tunis. I build 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/devhmez/onde"><img src="https://raw.githubusercontent.com/devhmez/onde/main/public/og.jpg" alt="ONDE"></a>
+<a href="https://github.com/devhmez/onde"><img src="https://raw.githubusercontent.com/devhmez/onde/main/docs/screenshot.jpg" alt="ONDE"></a>
 <h3><a href="https://github.com/devhmez/onde">ONDE</a></h3>
 My own product, live at <a href="https://onde.tn">onde.tn</a>: NFC review stands for businesses in Tunisia. A bilingual storefront with a real-time 3D product scene, a smart-link platform that redirects every tap and records it, and an installable admin dashboard with Web Push.<br><br>
 <code>Next.js 16</code> <code>SQLite + Drizzle</code> <code>three.js</code> <code>Docker</code>
@@ -21,16 +21,28 @@ An original 3D elemental martial-arts game. Four playable characters with five m
 <code>Godot 4</code> <code>GDScript</code> <code>GLSL shaders</code> <code>Blender Python</code>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/devhmez/pic-studio"><img src="https://raw.githubusercontent.com/devhmez/pic-studio/main/docs/screenshot.jpg" alt="PIC Studio"></a>
+<h3><a href="https://github.com/devhmez/pic-studio">PIC Studio</a></h3>
+A desktop studio for the PIC16F84A microcontroller: a hand-written MikroC-subset compiler, a cycle-accurate emulator and a live circuit simulator, with the C code, assembly and flowchart kept in sync. About 1,700 tests.<br><br>
+<code>TypeScript</code> <code>Electron</code> <code>React</code> <code>Vitest</code>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/devhmez/agence-hmez"><img src="https://raw.githubusercontent.com/devhmez/agence-hmez/main/docs/screenshot.jpg" alt="Agence Hmez"></a>
+<h3><a href="https://github.com/devhmez/agence-hmez">Agence Hmez</a></h3>
+My agency site, live at <a href="https://agence-hmez.pages.dev">agence-hmez.pages.dev</a>: the offer for beauty businesses, a clinic demo with a booking flow and a boutique catalogue demo, tested in three browsers on every push.<br><br>
+<code>Next.js 16</code> <code>Cloudflare Workers</code> <code>Playwright</code>
+</td>
+</tr>
 </table>
 
 ## More projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [pic-studio](https://github.com/devhmez/pic-studio) | Desktop studio for the PIC16F84A: a hand-written MikroC-subset compiler, a cycle-accurate emulator and a live circuit simulator, with about 1,700 tests | TypeScript, Electron, React |
 | [trajectory](https://github.com/devhmez/trajectory) | Personal progression PWA: academics, focus, habits, fitness, finance and a weekly planner, with row-level security on every table | Next.js, Supabase, PostgreSQL |
 | [onde-reels](https://github.com/devhmez/onde-reels) | Code-driven pipeline that produces ONDE's vertical marketing reels: Blender shots, scripted UI capture, synthesized audio, automated QA | Python, Blender, ffmpeg |
-| [agence-hmez](https://github.com/devhmez/agence-hmez) | My agency site, with a clinic booking demo and a boutique catalogue demo | Next.js, Cloudflare Workers, Playwright |
 | [fuel](https://github.com/devhmez/fuel) | Meal-photo calorie and macro tracker, installable and local-first | Cloudflare Workers, TypeScript, IndexedDB |
 | [hamzadellai](https://github.com/devhmez/hamzadellai) | Scroll-driven portfolio with a WebGL portrait hero and a GLSL data cloud | Next.js, three.js, GLSL |
 | [dari-match](https://github.com/devhmez/dari-match) | Real-estate listings app for Tunisia with swipe discovery and an admin panel | React, Supabase, TanStack Router |
