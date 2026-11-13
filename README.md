@@ -27,6 +27,7 @@ An original 3D elemental martial-arts game. Four playable characters with five m
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [pic-studio](https://github.com/devhmez/pic-studio) | Desktop studio for the PIC16F84A: a hand-written MikroC-subset compiler, a cycle-accurate emulator and a live circuit simulator, with about 1,700 tests | TypeScript, Electron, React |
 | [trajectory](https://github.com/devhmez/trajectory) | Personal progression PWA: academics, focus, habits, fitness, finance and a weekly planner, with row-level security on every table | Next.js, Supabase, PostgreSQL |
 | [onde-reels](https://github.com/devhmez/onde-reels) | Code-driven pipeline that produces ONDE's vertical marketing reels: Blender shots, scripted UI capture, synthesized audio, automated QA | Python, Blender, ffmpeg |
 | [agence-hmez](https://github.com/devhmez/agence-hmez) | My agency site, with a clinic booking demo and a boutique catalogue demo | Next.js, Cloudflare Workers, Playwright |
