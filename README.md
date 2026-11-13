@@ -50,11 +50,11 @@ Case studies are on [my portfolio](https://devhmez.github.io).
 
 ## Stack
 
-**Languages** TypeScript, JavaScript, PHP, C#, Python, GDScript, SQL
-**Web** Next.js, React, Tailwind CSS, three.js
-**Data** PostgreSQL, Supabase, SQLite, MySQL
-**Infra** Cloudflare Workers and Pages, Docker, Caddy, Linux VPS
-**Testing** Playwright, Vitest
+- **Languages:** TypeScript, JavaScript, PHP, C#, Python, GDScript, SQL
+- **Web:** Next.js, React, Tailwind CSS, three.js
+- **Data:** PostgreSQL, Supabase, SQLite, MySQL
+- **Infra:** Cloudflare Workers and Pages, Docker, Caddy, Linux VPS
+- **Testing:** Playwright, Vitest
 
 ## Contact
 
